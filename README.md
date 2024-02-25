@@ -1,1 +1,1 @@
-# Repositório do minicurso de introdução a Python ministrado no X Simpósio de Biotecnologia UFPel 2022.
+# Repositório do minicurso de introdução a Python ministrado no Simpósio de Biotecnologia UFPel.
